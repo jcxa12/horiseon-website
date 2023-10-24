@@ -7,7 +7,7 @@ A documentation of the modifications made to Horiseon's website by Jesica Paez.
 - [Website Modifications Documentation](#website-modifications-documentation)
 - [Description](#description)
 - [Modifications](#modifications)
-- [Usage](#usage)
+- [Links](#link)
 - [Credits](#credits)
 
 ## Description
@@ -25,6 +25,11 @@ With the following modifications, I sought to improve the accessibility standard
 7- Linked options "Search Engine Optimization", "Online Reputation Management" and "Social Media Marketing" to HTML file "Horiseon-ComingSoon.html" which opens in a new tab.
 8- Upload image coming.soon.xxx and linked to Horisseon-ComingSoon.html
 9- Created a README.md file
+
+## Links
+[![Horiseon new website](git@github.com:jcxa12/horiseon-website.git)](http://127.0.0.1:5500/Horiseon-Marketing.html)
+[![Screenshot to the new website](https://github.com/jcxa12/horiseon-website/issues/1#issue-1960166326)](http://127.0.0.1:5500/Horiseon-Marketing.html)
+[![Coming Soon website](https://github.com/jcxa12/horiseon-website/issues/2#issue-1960168301)](http://127.0.0.1:5500/Horiseon-ComingSoon.html)
 
 ## Credits
 
